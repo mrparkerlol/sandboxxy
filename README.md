@@ -5,6 +5,12 @@ This is one of the many versions of my sandbox that I have written for my discor
 
 This sandbox prevents hanging of the thread by auto-terminating when execution time has exceeded 10 seconds.
 
+To install, you would need to run:
+
+```
+lit install MrTeenageParker/sandboxxy
+```
+
 To use this module, you simply need to do:
 ```
 local sandboxxy = require('sandboxxy');
