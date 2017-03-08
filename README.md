@@ -14,7 +14,9 @@ local responses = sandboxxy("print'asd'");
 It will return a table:
 
 `responses[1]` -> success or failure
+
 `responses[2]` -> error ourput
+
 `responses[3]` -> print output (if any)
 
 You can easily do checks with these arguments if needed.
